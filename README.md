@@ -1,6 +1,8 @@
 # C
 
-**objective**: an in-depth study of C, its implementation and ecosystem.
+![build status](https://github.com/praisetompane-programming-languages/c/actions/workflows/c.yaml/badge.svg) <br>
+
+**objective**: An in-depth study of C's implementation and ecosystem.
 
 ## Language Details: 
 - [language specification](https://www.iso.org/standard/82075.html)
@@ -22,14 +24,17 @@
 
 ## Use Cases:
 - [Applications of C]()
-- Large Implementations:
-- Database Integration:
-- Web Development:
 
 ## Learning Resources:
 - practice problems:
 	- https://www.hackerrank.com/domains/c
 - [roadmap]()
+
+## Spell Check:
+
+```shell
+pyspelling -c spellcheck.yaml
+```
 
 ## References:
 
