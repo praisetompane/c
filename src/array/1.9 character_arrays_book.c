@@ -43,3 +43,8 @@ void copy(char to[], char from[]) {
     while((to[i] = from[i]) != '\0')
         ++i;
 }
+
+/*
+  References:
+      Kernighan, B., Ritchie, D. 1988. The C Programming Language. 2nd edition
+*/

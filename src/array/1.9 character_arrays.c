@@ -48,3 +48,8 @@ void copy(char to[], char from[]) {
         to[i] = from[i];
     }
 }
+
+/*
+  References:
+      Kernighan, B., Ritchie, D. 1988. The C Programming Language. 2nd edition
+*/
