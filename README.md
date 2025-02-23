@@ -2,7 +2,10 @@
 
 ![build status](https://github.com/praisetompane-programming-languages/c/actions/workflows/c.yaml/badge.svg) <br>
 
-**objective**: An in-depth study of C's design, implementation and ecosystem.
+**objectives**: An in-depth study of:
+- C's Compiler:
+	- This focuses on [Clang](https://github.com/llvm/llvm-project/tree/main/clang).
+- C's language design, implementation and ecosystem.
 
 ## Language Details: 
 - [language specification](https://www.iso.org/standard/82075.html)
