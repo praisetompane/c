@@ -1,4 +1,10 @@
+# abbreviations
+svg
+
+
 # acronyms
+MYINC
+
 
 # authors
 Kernighan

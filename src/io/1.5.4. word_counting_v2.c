@@ -24,3 +24,8 @@ main() {
     }
     printf("Number of words %d\n", wordCount);
 }
+
+/*
+  References:
+      Kernighan, B., Ritchie, D. 1988. The C Programming Language. 2nd edition
+*/

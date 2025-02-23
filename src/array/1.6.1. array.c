@@ -27,3 +27,8 @@ main() {
     printf(", number of white characters = %d and number of other character = %d\n", numberOfWhiteCharacters, numberOfOtherCharacters);
 
 }
+
+/*
+    References:
+        Kernighan, B., Ritchie, D. 1988. The C Programming Language. 2nd edition
+*/

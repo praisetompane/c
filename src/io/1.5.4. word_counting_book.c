@@ -31,3 +31,8 @@ main() {
     }
     printf("Number of words: %d, number of new lines: %d, number of characters: %d\n", numberOfWords ,numberOfNewLines, numberOfCharacters );
 }
+
+/*
+  References:
+      Kernighan, B., Ritchie, D. 1988. The C Programming Language. 2nd edition
+*/

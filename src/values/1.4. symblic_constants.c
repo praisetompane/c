@@ -12,3 +12,8 @@ main() {
         printf("%3d \t %6.1f\n", fahr, celsius);
     }
 }
+
+/*
+References:
+    Kernighan, B., Ritchie, D. 1988. The C Programming Language. 2nd edition
+*/

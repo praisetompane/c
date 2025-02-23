@@ -20,3 +20,8 @@ main() {
     putchar(c);
     putchar('\n');
 }
+
+/*
+  References:
+      Kernighan, B., Ritchie, D. 1988. The C Programming Language. 2nd edition
+*/

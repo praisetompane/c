@@ -10,3 +10,8 @@ main() {
     }
     printf("Number of lines: %d\n", lineNumbers);
 }
+
+/*
+  References:
+      Kernighan, B., Ritchie, D. 1988. The C Programming Language. 2nd edition
+*/
