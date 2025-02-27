@@ -1,13 +1,14 @@
 # C
 
-![build status](https://github.com/praisetompane-programming-languages/c/actions/workflows/c.yaml/badge.svg) <br>
+![build status](https://github.com/praisetompane/c/actions/workflows/c.yaml/badge.svg) <br>
 
-**objectives**: An in-depth study of:
-- C's Compiler:
-	- This focuses on [Clang](https://github.com/llvm/llvm-project/tree/main/clang).
-- C's language design, implementation and ecosystem.
+## Objectives
+- An in-depth study of:
+	- C's Compiler.
+		- This focuses on [Clang](https://github.com/llvm/llvm-project/tree/main/clang).
+	- C's language design, implementation and ecosystem.
 
-## Language Details: 
+## Language Details
 - [language specification](https://www.iso.org/standard/82075.html)
 - [compiler/interpreter](https://github.com/llvm/llvm-project/tree/main/clang)
 - language reference: Brian Kernighan, Dennis Ritchie. The C Programming Language. 2nd edition
@@ -23,23 +24,21 @@
 - [developer contribution guide]()
 - history:
 
-## Testing:
+## Testing
 
-## Use Cases:
+## Use Cases
 - [Applications of C]()
 
-## Learning Resources:
-- practice problems:
-	- https://www.hackerrank.com/domains/c
+## Learning Resources
 - [roadmap]()
+- [practice problems](https://www.hackerrank.com/domains/c)
 
-## Spell Check:
-
+## Spell Check
 ```shell
 pyspelling -c spellcheck.yaml
 ```
 
-## References:
+## References
 
 ## Legend:
 **Q**: Question for later research
