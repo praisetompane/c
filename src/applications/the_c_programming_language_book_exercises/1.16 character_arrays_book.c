@@ -79,3 +79,8 @@ void copy(char to[], char from[]) {
         Space = O(1000) => O(1)
             Largest number of characters stored is 1000
 */
+
+/*
+    References:
+        Kernighan, B., Ritchie, D. 1988. The C Programming Language. 2nd edition
+*/
