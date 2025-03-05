@@ -5,7 +5,7 @@
 ## Objectives
 - An in-depth study of:
 	- C's Compiler.
-		- This focuses on [Clang](https://github.com/llvm/llvm-project/tree/main/clang).
+		- This focuses on [clang](https://github.com/llvm/llvm-project/tree/main/clang).
 	- C's language design, implementation and ecosystem.
 
 ## Language Details
@@ -13,7 +13,9 @@
 - [compiler/interpreter](https://github.com/llvm/llvm-project/tree/main/clang)
 - language reference: Brian Kernighan, Dennis Ritchie. The C Programming Language. 2nd edition
 - [base modules index]()
-- [standard library reference]()
+- standard library reference
+  - [musl](https://github.com/kraj/musl)
+  - [glibc](https://github.com/bminor/glibc)
 - package management:
     - [packaging]()
 	- tools:

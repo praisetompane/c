@@ -10,6 +10,8 @@ MYINC
 Kernighan
 Ritchie
 praisetompane
+bminor
+kraj
 
 # concepts
 
@@ -21,7 +23,8 @@ praisetompane
 yaml
 llvm
 pyspelling
-
+musl
+glibc
 
 # institutions:
 roadmap
