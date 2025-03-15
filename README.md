@@ -9,22 +9,21 @@
 	- C's language design, implementation and ecosystem.
 
 ## Language Details
-- [language specification](https://www.iso.org/standard/82075.html)
-- [compiler/interpreter](https://github.com/llvm/llvm-project/tree/main/clang)
+- [Language Specification](https://www.iso.org/standard/82075.html)
+- [Compiler](https://github.com/llvm/llvm-project/tree/main/clang)
 - language reference: Brian Kernighan, Dennis Ritchie. The C Programming Language. 2nd edition
-- [base modules index]()
-- standard library reference
+- [Base Modules Index]()
+- Standard Library Reference
   - [musl](https://github.com/kraj/musl)
   - [glibc](https://github.com/bminor/glibc)
-- package management:
-    - [packaging]()
-	- tools:
-	- structuring projects:
-- [package index]()
-- [extending and embedding]()
-- [memory model](src/memory_allocation/memory_model.c)
-- [developer contribution guide]()
-- history:
+- Packaging and Distribution
+  - Tools:
+	- [conan](https://docs.conan.io/2/index.html)
+  - Structuring Projects:
+- [Package Index](https://conan.io/center)
+- [Memory Model](src/memory_allocation/memory_model.c)
+- [Developer Contribution Guide](https://llvm.org/docs/Contributing.html)
+- History:
 
 ## Testing
 

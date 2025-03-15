@@ -17,8 +17,3 @@ int power(int base, int exponenet) {
 
     return total;
 }
-
-/*
-  References:
-      Kernighan, B., Ritchie, D. 1988. The C Programming Language. 2nd edition
-*/
