@@ -54,3 +54,5 @@ dkms.conf
 
 # adminstration
 .DS_Store
+
+ecosystem/
