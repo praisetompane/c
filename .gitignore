@@ -56,3 +56,6 @@ dkms.conf
 .DS_Store
 
 ecosystem/
+scratch_pad/
+journal/
+applications/
