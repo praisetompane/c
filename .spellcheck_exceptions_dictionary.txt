@@ -7,14 +7,15 @@ MYINC
 
 
 # authors
+Zelnski
 Kernighan
 Ritchie
 praisetompane
 bminor
 kraj
 
-# concepts
-
+# domain specific
+libc
 
 # course codes:
 

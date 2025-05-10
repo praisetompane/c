@@ -1,4 +1,4 @@
-/*
+memory model:
     Memory allocated at execution time(i.e. runtime)
 
     Properties:
@@ -15,10 +15,12 @@
         |____________________|
         |        Heap        |<-- Dynamic memory allocated here. Memory allocated without any order/randomly
         |____________________|
-        | Uninitialized data |
+        | Uninitialized Data |
         |____________________|
-        | Initialized data   |
+        | Initialized Data   |
         |____________________|
-        | Text/Code Segment  |
-        |____________________|
-*/
+        | Text/Code Segment  | Program text(i.e. Instructions)
+        |____________________| .text in assembly
+
+
+References: ???

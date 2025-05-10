@@ -12,9 +12,10 @@
 - [Language Specification](https://www.iso.org/standard/82075.html)
 - [Compiler | Interpreter](https://github.com/llvm/llvm-project/tree/main/clang)
 - [Type System]()
-- [Memory Model](src/memory_allocation/memory_model.c)
+- [Memory Model](./1_core_language/4_execution_model/memory_model.c)
 - Language Reference: Brian Kernighan, Dennis Ritchie. The C Programming Language. 2nd edition
-- [Standard Library](https://github.com/bminor/glibc)
+- Standard Library
+  - [glibc](https://www.gnu.org/software/libc/)
   - [musl](https://github.com/kraj/musl)
 - Packaging and Distribution
     - [Core Module Index]()
@@ -28,7 +29,7 @@
 - [History](https://www.youtube.com/watch?v=VZ2N0MuAUGA&pp=ygUQdGhlIGhpc3Rvcnkgb2YgYw%3D%3D)
 
 ## Use Cases
-- [Applications of C]
+- Applications of C
   - Systems Programming
     - Operating Systems
   - Compilers

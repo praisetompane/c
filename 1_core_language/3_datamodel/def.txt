@@ -1,0 +1,12 @@
+- pointers:
+    all pointers are 8 bytes long
+        i.e. every memory address is 8 bytes long
+            i.e. 
+                1 byte = 8 bits
+                8 bits * 8
+                ∴ 64 bits for a memory address
+
+    We can therefore address 2^64 memory locations
+
+References:
+    Chang, M., Zelnski ,J. 2025. CS107 - Computer Organization and Systems. Stanford University

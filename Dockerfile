@@ -9,11 +9,12 @@ RUN apt-get update \
 
 RUN apt-get install git-all -y
 
-RUN apt-get install python3 -yqq && apt-get install python3-pip -yqq
+RUN apt-get install python3 -y && \
+    apt-get install python3-pip -y && \
+    apt-get install pipenv -y && \
+    ln -s /usr/bin/python3 /usr/bin/python
 
-RUN ln -s /usr/bin/python3 /usr/bin/python
-
-RUN python -m pip install -r requirements.txt --break-system-packages
+RUN pipenv sync --system -d
 
 RUN adduser -u 5678 --disabled-password --gecos "" c && chown -R c /c
 USER c
