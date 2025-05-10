@@ -13,8 +13,8 @@ praisetompane
 bminor
 kraj
 
-# concepts
-
+# domain specific
+libc
 
 # course codes:
 
